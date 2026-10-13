@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.mp4
+!sample_data/sample_drone_flight.mp4
+venv/
+env/
+.env
+.DS_Store
+Thumbs.db
